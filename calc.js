@@ -34,4 +34,3 @@ function checkGuess() {
         guessResult.textContent = "Too high, try again";
     }
 }
-//# sourceMappingURL=calc.js.map
